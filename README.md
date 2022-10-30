@@ -8,3 +8,8 @@ This project was done for the academic purposes of the mobile application
 development module (Year 2 Semester 2 )at the Sri Lanka Institute of Information 
 Technology. (Main Intake 2021 )
 
+Team Members:
+Wickramasinghe W.A.I.A - IT21056970
+Kariyawasam S.B - IT21064418
+Rajapakse V.O.V - IT21066016
+Rangana R.A.P.Y - IT21064104
