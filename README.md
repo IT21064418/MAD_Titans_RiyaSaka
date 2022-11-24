@@ -4,11 +4,12 @@ Finding a suitable location to rent a car for those who don't own one is one of 
 a straightforward and user-friendly program that is simple to download for the user. Our app, "RIYA-SAKA," is incredibly helpful in ensuring that your needs are addressed. The process of using our software is quite straightforward, There are initially two different sorts of logins because both the system admin and the customer must log in to the system. Customers can register for the system by following a short process if they don't already have an account to login to. The user can examine and purchase a travel package by navigating the dashboard after logging into his account.
 
 
+
 This project was done for the academic purposes of the mobile application 
 development module (Year 2 Semester 2 )at the Sri Lanka Institute of Information 
 Technology. (Main Intake 2021 )
 
-Team Members:
+Team Members :
 
 Wickramasinghe W.A.I.A - IT21056970
 
