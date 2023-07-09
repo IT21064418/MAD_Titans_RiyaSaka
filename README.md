@@ -13,12 +13,10 @@ Languages: Java, XML
 Database: Firebase Firestore
 
 Introduction Video : https://www.linkedin.com/posts/abisheka-wickramasinghe-55170a23a_java-android-project-activity-6992535817013407744-THPg?utm_source=share&utm_medium=member_desktop
-Team Members :
 
-Wickramasinghe W.A.I.A - IT21056970
+## Team Members
 
-Kariyawasam S.B - IT21064418
-
-Rajapakse V.O.V - IT21066016
-
-Rangana R.A.P.Y - IT21064104
++ Wickramasinghe W.A.I.A - IT21056970
++ Kariyawasam S.B - IT21064418
++ Rajapakse V.O.V - IT21066016
++ Rangana R.A.P.Y - IT21064104
