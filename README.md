@@ -6,13 +6,13 @@ Finding a suitable location to rent a car for those who don't own one is one of 
 
 a straightforward and user-friendly program that is simple to download for the user. Our app, "RIYA-SAKA," is incredibly helpful in ensuring that your needs are addressed. The process of using our software is quite straightforward, There are initially two different sorts of logins because both the system admin and the customer must log in to the system. Customers can register for the system by following a short process if they don't already have an account to login to. The user can examine and purchase a travel package by navigating the dashboard after logging into his account.
 
-Development IDE: Android Studio
+Development IDE - Android Studio
 
-Languages: Java, XML
+Languages - Java, XML
 
-Database: Firebase Firestore
+Database - Firebase Firestore
 
-Introduction Video : https://www.linkedin.com/posts/abisheka-wickramasinghe-55170a23a_java-android-project-activity-6992535817013407744-THPg?utm_source=share&utm_medium=member_desktop
+[Introduction Video](https://www.linkedin.com/posts/abisheka-wickramasinghe-55170a23a_java-android-project-activity-6992535817013407744-THPg?utm_source=share&utm_medium=member_desktop)
 
 ## Team Members
 
